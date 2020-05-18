@@ -24,7 +24,7 @@
     "react-navigation": "^4.0.6"
   },
   "devDependencies": {
-    "babel-jest": "25.5.1",
+    "babel-jest": "26.0.1",
     "jest": "^24.9.0",
     "jetifier": "^1.6.5",
     "metro-react-native-babel-preset": "^0.59.0",
